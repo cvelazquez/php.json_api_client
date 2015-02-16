@@ -1,3 +1,4 @@
+<?php
 /**
  * Abstract class to generate a client to consume a RESTFUL JSON API
  * that requires only an API KEY (like mandrill)
